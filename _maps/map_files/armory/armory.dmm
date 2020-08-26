@@ -1,0 +1,129 @@
+"aa" = (/turf/open/space/basic,/area/space)
+"ab" = (/turf/open/indestructible/plating,/area/security/range)
+"ac" = (/obj/effect/spawner/structure/window/reinforced,/obj/structure/grille,/turf/open/floor/plating,/area/security/range)
+"ad" = (/obj/machinery/suit_storage_unit/syndicate,/obj/effect/turf_decal/bot_red,/turf/open/floor/plasteel/rockvault,/area/security/range)
+"ae" = (/obj/structure/rack,/obj/effect/turf_decal/bot_red,/turf/open/floor/plasteel/rockvault,/area/security/range)
+"af" = (/obj/machinery/door/airlock/centcom,/turf/open/floor/plasteel,/area/security/range)
+"ag" = (/obj/effect/turf_decal/caution/stand_clear/red{icon_state = "stand_clear_red"; dir = 4},/turf/open/floor/plasteel/rockvault,/area/security/range)
+"ah" = (/obj/effect/turf_decal/tile/red{dir = 1},/obj/effect/turf_decal/tile/red{dir = 4},/turf/open/floor/plasteel/rockvault,/area/security/range)
+"ai" = (/obj/effect/turf_decal/tile/red{dir = 1},/obj/effect/turf_decal/tile/red{dir = 4},/obj/effect/turf_decal/stripes/line{dir = 1},/turf/open/floor/plasteel/rockvault,/area/security/range)
+"aj" = (/obj/machinery/vending/liberationstation,/turf/open/floor/plasteel/rockvault,/area/security/range)
+"ak" = (/obj/effect/turf_decal/tile/red{dir = 8},/obj/effect/turf_decal/tile/red,/turf/open/floor/plasteel/rockvault,/area/security/range)
+"al" = (/obj/effect/turf_decal/tile/red{dir = 8},/obj/effect/turf_decal/tile/red,/obj/effect/turf_decal/stripes/line,/turf/open/floor/plasteel/rockvault,/area/security/range)
+"am" = (/obj/machinery/door/airlock/security{name = "Shooting Range"; req_access_txt = "63"},/obj/effect/mapping_helpers/airlock/cyclelink_helper,/turf/open/floor/plasteel,/area/security/range)
+"an" = (/obj/structure/rack,/obj/item/clothing/suit/armor/ebpsuit,/obj/item/clothing/head/helmet/ebphelmet,/obj/machinery/light{dir = 8},/turf/open/floor/plasteel,/area/security/range)
+"ao" = (/turf/open/floor/plasteel,/area/security/range)
+"ap" = (/obj/machinery/suit_storage_unit/syndicate,/turf/open/floor/plasteel,/area/security/range)
+"aq" = (/obj/structure/rack,/obj/item/clothing/suit/armor/ebpsuit,/obj/item/clothing/head/helmet/ebphelmet,/obj/machinery/light{dir = 4},/turf/open/floor/plasteel,/area/security/range)
+"ar" = (/obj/machinery/door/airlock/security{name = "Shooting Range"; req_access_txt = "63"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 1},/turf/open/floor/plasteel,/area/security/range)
+"as" = (/obj/machinery/light{dir = 8},/turf/open/floor/plasteel,/area/security/range)
+"at" = (/obj/machinery/light{dir = 4},/turf/open/floor/plasteel,/area/security/range)
+"au" = (/turf/open/indestructible/engine,/area/security/range)
+"av" = (/obj/item/target,/turf/open/indestructible/engine,/area/security/range)
+"aw" = (/obj/item/target/alien,/turf/open/indestructible/engine,/area/security/range)
+"ax" = (/obj/item/target/syndicate,/turf/open/indestructible/engine,/area/security/range)
+"ay" = (/obj/item/target/clown,/turf/open/indestructible/engine,/area/security/range)
+"az" = (/turf/closed/wall/r_wall,/area/space)
+"aA" = (/obj/machinery/light{dir = 1},/turf/open/floor/plasteel,/area/security/range)
+"aB" = (/turf/open/indestructible,/area/security/range)
+"aC" = (/obj/structure/grille,/obj/effect/spawner/structure/window/reinforced,/turf/open/indestructible/plating,/area/security/range)
+"aD" = (/obj/structure/table/reinforced,/turf/open/indestructible/engine,/area/security/range)
+"aE" = (/turf/closed/wall/r_wall,/area/security/range)
+"aF" = (/obj/effect/turf_decal/trimline/red/corner,/turf/open/floor/plasteel,/area/security/range)
+"aG" = (/obj/effect/turf_decal/trimline/red/line,/turf/open/floor/plasteel,/area/security/range)
+"aH" = (/obj/effect/turf_decal/trimline/red/corner{icon_state = "trimline_corner"; dir = 8},/turf/open/floor/plasteel,/area/security/range)
+"aI" = (/obj/machinery/light{dir = 4; light_color = "#e8eaff"},/turf/open/indestructible,/area/security/range)
+"aJ" = (/obj/effect/turf_decal/trimline/red/line{icon_state = "trimline"; dir = 4},/turf/open/floor/plasteel,/area/security/range)
+"aK" = (/obj/machinery/light{dir = 1},/turf/open/indestructible,/area/security/range)
+"aL" = (/obj/machinery/light,/turf/open/indestructible,/area/security/range)
+"aM" = (/obj/effect/turf_decal/stripes/red{icon_state = "warningline"; dir = 9},/turf/open/floor/engine,/area/security/range)
+"aN" = (/obj/effect/turf_decal/stripes/red{icon_state = "warningline"; dir = 1},/turf/open/floor/engine,/area/security/range)
+"aO" = (/obj/effect/turf_decal/stripes/red{icon_state = "warningline"; dir = 5},/turf/open/floor/engine,/area/security/range)
+"aP" = (/obj/effect/turf_decal/trimline/red/line{icon_state = "trimline"; dir = 8},/turf/open/floor/plasteel,/area/security/range)
+"aQ" = (/obj/effect/turf_decal/stripes/red{icon_state = "warningline"; dir = 8},/turf/open/floor/engine,/area/security/range)
+"aR" = (/turf/open/floor/engine,/area/security/range)
+"aS" = (/obj/effect/turf_decal/stripes/red{icon_state = "warningline"; dir = 4},/turf/open/floor/engine,/area/security/range)
+"aT" = (/obj/machinery/light{dir = 4; light_color = "#e8eaff"},/turf/open/floor/plasteel,/area/security/range)
+"aU" = (/obj/effect/turf_decal/caution/stand_clear/red{icon_state = "stand_clear_red"; dir = 8},/turf/open/indestructible,/area/security/range)
+"aV" = (/obj/effect/turf_decal/stripes/red{icon_state = "warningline"; dir = 10},/turf/open/floor/engine,/area/security/range)
+"aW" = (/obj/effect/turf_decal/stripes/red,/turf/open/floor/engine,/area/security/range)
+"aX" = (/obj/effect/turf_decal/stripes/red{icon_state = "warningline"; dir = 6},/turf/open/floor/engine,/area/security/range)
+"aY" = (/obj/machinery/power/apc/highcap/fifteen_k{pixel_x = 26; pixel_y = 0},/turf/open/floor/plasteel,/area/security/range)
+"aZ" = (/obj/effect/turf_decal/stripes/line,/turf/open/indestructible/engine,/area/security/range)
+"ba" = (/obj/effect/turf_decal/stripes/line{dir = 1},/turf/open/indestructible/engine,/area/security/range)
+"bb" = (/obj/item/target,/obj/effect/turf_decal/stripes/line{dir = 1},/turf/open/indestructible/engine,/area/security/range)
+"bc" = (/obj/effect/turf_decal/delivery/red,/turf/open/indestructible,/area/security/range)
+"bd" = (/obj/effect/turf_decal/arrows/red{icon_state = "arrows_red"; dir = 1},/turf/open/indestructible,/area/security/range)
+"be" = (/obj/effect/turf_decal/loading_area/red{icon_state = "loadingarea_red"; dir = 1},/turf/open/indestructible/engine,/area/security/range)
+"bf" = (/obj/item/target/syndicate,/obj/machinery/light{dir = 8},/turf/open/indestructible/engine,/area/security/range)
+"bg" = (/obj/item/target/alien,/obj/machinery/light{dir = 4; light_color = "#e8eaff"},/turf/open/indestructible/engine,/area/security/range)
+"bh" = (/obj/machinery/light{dir = 8},/turf/open/indestructible/engine,/area/security/range)
+"bi" = (/obj/machinery/light{dir = 4; light_color = "#e8eaff"},/turf/open/indestructible/engine,/area/security/range)
+"bj" = (/obj/effect/turf_decal/trimline/red/corner{icon_state = "trimline_corner"; dir = 4},/turf/open/floor/plasteel,/area/security/range)
+"bk" = (/obj/effect/turf_decal/trimline/red/line{icon_state = "trimline"; dir = 1},/turf/open/floor/plasteel,/area/security/range)
+"bl" = (/obj/effect/turf_decal/trimline/red/corner{icon_state = "trimline_corner"; dir = 1},/turf/open/floor/plasteel,/area/security/range)
+"bm" = (/obj/machinery/light,/turf/open/floor/plasteel,/area/security/range)
+"bn" = (/obj/machinery/door/airlock/maintenance_hatch,/turf/open/indestructible/plating,/area/security/range)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazazazazazazazazazazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazbababbbababababaazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazauawauauauauaxauazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazauauauauavauauauazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazbfauauauauauaubgazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazauauauayauauauauazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazauauauauauayauauazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazbhauauauauauaubiazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazbhauauauauauaubiazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazauauauauauauauauazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazauauauauauauauauazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazbhauauauauauaubiazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazauauauauauauauauazazazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazauauauauauauauaubnabazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazaZbeaZaZaZbeaZaZazabazazazazazazazazazazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazaCaDaCaEaCaDaCaEazabazazacacacacacacacazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazaBbcaBaEaBbcaBaIazbnazazacadaeaeaeadacazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazaBbdaBaKaBbdaBaBaBaUafagahaiahahahaiajazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazaBaBaLaBaBaBaBaLaBaUafagakalakakakalajazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazaEamaEaEacacaEaEamaEaEazacadaeaeaeadacazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaazanaoapaEaoaoaEapaoaqaEazacacacacacacacazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaazazaEaraEaEasataEaEaraEaEazazazazazazazazazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaazaoaoaoaAaoaoaoaoaAaoaoaoazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaazazaoaFaGaGaGaGaGaGaGaGaHaoazazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaazaoaoaJaMaNaNaNaNaNaNaOaPaoaoazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaazasaoaJaQaRaRaRaRaRaRaSaPaoaTazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaazaoaoaJaVaWaWaWaWaWaWaXaPaoaYazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaazazaobjbkbkbkbkbkbkbkbkblaoazazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaazaobmaoaobmaoaobmaoaobmaoazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaazazazazazazazazazazazazazazaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

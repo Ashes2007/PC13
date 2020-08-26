@@ -46,6 +46,27 @@
 	heavyfootstep = FOOTSTEP_GENERIC_HEAVY
 	tiled_dirt = TRUE
 
+/turf/open/indestructible/engine
+	name = "reinforced floor"
+	desc = "Extremely sturdy."
+	icon_state = "engine"
+	thermal_conductivity = 0.025
+	footstep = FOOTSTEP_FLOOR
+	barefootstep = FOOTSTEP_HARD_BAREFOOT
+	clawfootstep = FOOTSTEP_HARD_CLAW
+	heavyfootstep = FOOTSTEP_GENERIC_HEAVY
+	tiled_dirt = TRUE
+
+/turf/open/indestructible/plating
+	name = "plating"
+	icon_state = "plating"
+	intact = FALSE
+	baseturfs = /turf/baseturf_bottom
+	footstep = FOOTSTEP_PLATING
+	barefootstep = FOOTSTEP_HARD_BAREFOOT
+	clawfootstep = FOOTSTEP_HARD_CLAW
+	heavyfootstep = FOOTSTEP_GENERIC_HEAVY
+
 /turf/open/indestructible/Melt()
 	to_be_destroyed = FALSE
 	return src

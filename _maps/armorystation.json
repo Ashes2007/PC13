@@ -1,0 +1,11 @@
+{
+    "map_name": "Armory Station",
+    "map_path": "map_files/armory",
+    "map_file": "armory.dmm",
+    "shuttles": {
+	    "emergency": "emergency_delta",
+	    "ferry": "ferry_fancy",
+	    "cargo": "cargo_delta",
+	    "whiteship": "whiteship_delta"
+    }
+}

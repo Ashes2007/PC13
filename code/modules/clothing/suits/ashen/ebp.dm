@@ -2,7 +2,7 @@
 	name = "Extreme Trauma Protection Unit"
 	desc = "A wonderous piece of armor for protecting against guns and... guns."
 	icon_state = "ebpsuit"
-	name = "suit"
+	inhand_icon_state = "ebpsuit"
 	allowed = list(/obj/item/tank/internals/emergency_oxygen, /obj/item/gun)
 	armor = list("melee" = 100, "bullet" = 50, "laser" = 35,"energy" = 20, "bomb" = 50, "bio" = 0, "rad" = 0, "fire" = 200, "acid" = 100)
 
